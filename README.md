@@ -1,18 +1,32 @@
-## Getting Started
+## Application Screenshots
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Login
 
-## Folder Structure
+The application starts with a login page where the user enters username and password.
 
-The workspace contains two folders by default, where:
+<img width="1257" height="758" alt="image" src="https://github.com/user-attachments/assets/ec859a27-63f6-4d92-88bc-66f9328eb46d" />
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+### Main Menu
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+After successful login, the user can access the main menu.
+
+<img width="1257" height="758" alt="image" src="https://github.com/user-attachments/assets/ec859a27-63f6-4d92-88bc-66f9328eb46d" />
+
+
+
+### Add Student
+
+Users can add new students to the system.
+
+<img width="1257" height="758" alt="image" src="https://github.com/user-attachments/assets/ec859a27-63f6-4d92-88bc-66f9328eb46d" />
+
+
+
+### Student Report
+
+The system displays student information, subjects, and marks.
+
+<img width="1599" height="900" alt="image" src="https://github.com/user-attachments/assets/d93d50cd-7596-4e0f-a8f4-d3c24ff18aed" />
